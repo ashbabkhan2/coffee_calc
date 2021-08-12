@@ -1,0 +1,40 @@
+select{
+    outline: none;
+    display: inline-block;
+    appearance: none;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-size: 17px;
+    color: rgb(140,140,140);
+    width: 90%;
+    margin: 25px 0;
+}
+
+.Main_Body_Input{
+    width: 250px;
+    margin:0 auto;
+        margin-top: 70px;
+}
+
+.no_of_cups{
+    outline: none;
+    border: 1px solid rgba(70,46,37,0.2);
+    width: 90%;
+    padding: 10px 10px;
+    font-size: 17px;
+}
+
+.input_button a{
+   text-decoration: none;
+   color: #fff;
+   padding: 16px 0;
+    width: 90%;
+    border-radius: 5px;
+    font-size: 17px;
+    margin-top: 20px;
+    display: inline-block;
+   background-color: #462E25; 
+}
+.input_button{
+   
+}

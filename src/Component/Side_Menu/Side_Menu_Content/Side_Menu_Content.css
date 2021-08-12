@@ -1,0 +1,10 @@
+.Side_Menu_Content{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+
+.Side_Menu_Content h3{
+    color: #462E25;
+    margin: 10px 0;
+}

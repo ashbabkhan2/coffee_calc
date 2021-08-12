@@ -1,0 +1,22 @@
+.Side_Menu{
+    text-align: center;
+    padding: 20px 20px;
+    height: 100vh;
+}
+.Side_Menu h2{
+    margin-bottom: 30px;
+    color: #462E25;
+}
+.refill_button{
+    margin-top: 20px;
+}
+.refill_button a{
+    text-decoration: none;
+    color: #fff;
+    background-color: #462E25;
+    padding: 15px 0;
+    font-size: 18px;
+    border-radius: 7px;
+    width: 100%;
+    display: inline-block;
+}
